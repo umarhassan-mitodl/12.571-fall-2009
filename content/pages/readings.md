@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains a list of readings for each week, including full
   citations for each source.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ READINGS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Keho, T., and P. G. Kelamis. "{{% resource_link "1c820c0b-ba2f-4162-b1bd-2df093a3aba5" "A New Era in Land Seismic: The Near-Surface Challenge" %}}." _SEG Expanded Abstract_ 28 (2009): 3421-3425.
+Keho, T., and P. G. Kelamis. "[A New Era in Land Seismic: The Near-Surface Challenge](http://dx.doi.org/10.1190/1.1885813)." _SEG Expanded Abstract_ 28 (2009): 3421-3425.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,11 +42,11 @@ Keho, T., and P. G. Kelamis. "{{% resource_link "1c820c0b-ba2f-4162-b1bd-2df093a
 {{< tdopen >}}
 
 
-Vidale, J. "{{% resource_link "2a185f1e-2e87-4a28-975c-41e0fd44b8a9" "Finite-Difference Calculation of Travel Times" %}}." _BSSA_ 78, no. 6 (1988): 2062-2076.
+Vidale, J. "[Finite-Difference Calculation of Travel Times](http://bssa.geoscienceworld.org/cgi/content/abstract/78/6/2062)." _BSSA_ 78, no. 6 (1988): 2062-2076.
 
-Moser, T. J. "{{% resource_link "782f9117-cbbd-44a4-97b4-e7ac3ffb48d5" "Shortest Path Calculation of Seismic Rays" %}}." _Geophysics_ 56, no. 1 (1991): 59-67.
+Moser, T. J. "[Shortest Path Calculation of Seismic Rays](https://library.seg.org/doi/pdf/10.1190/1.1442958)." _Geophysics_ 56, no. 1 (1991): 59-67.
 
-Zhang, J., and M. N. Toksoz. "{{% resource_link "f3957e7c-4fe0-4919-bc44-948c406e496a" "Nonlinear Refraction Traveltime Tomography" %}}." _Geophysics_ 63, no. 5 (1998): 1726-1737.
+Zhang, J., and M. N. Toksoz. "[Nonlinear Refraction Traveltime Tomography](http://dx.doi.org/10.1190/1.1444468)." _Geophysics_ 63, no. 5 (1998): 1726-1737.
 
 
 {{< tdclose >}}
@@ -57,9 +59,9 @@ Zhang, J., and M. N. Toksoz. "{{% resource_link "f3957e7c-4fe0-4919-bc44-948c406
 {{< tdopen >}}
 
 
-Hill, R. "{{% resource_link "45436225-a570-4774-8213-a61c6e0a15ec" "Downward Continuation of Refracted Arrivals to Determine Shallow Structures" %}}." _Geophysics_ 52, no. 9 (1987): 1188-1198.
+Hill, R. "[Downward Continuation of Refracted Arrivals to Determine Shallow Structures](http://dx.doi.org/10.1190/1.1442382)." _Geophysics_ 52, no. 9 (1987): 1188-1198.
 
-Zhang, J. "{{% resource_link "331605ba-1141-44bc-8ad4-48fdab7757d0" "Refraction Migration: Imaging Multiple Refractors Automatically" %}}." _Expanded Abstract_, SEG 71st Annual Meeting in New Orleans, Louisiana (2006): 2426.
+Zhang, J. "[Refraction Migration: Imaging Multiple Refractors Automatically](https://www.onepetro.org/conference-paper/SEG-2006-2426)." _Expanded Abstract_, SEG 71st Annual Meeting in New Orleans, Louisiana (2006): 2426.
 
 
 {{< tdclose >}}
@@ -72,9 +74,9 @@ Zhang, J. "{{% resource_link "331605ba-1141-44bc-8ad4-48fdab7757d0" "Refraction 
 {{< tdopen >}}
 
 
-Sheng, J., A. Leeds, M. Buddensiek, and G. T. Schuster. "{{% resource_link "09b5a655-0d89-4597-9802-23991f8e6807" "Early Arrival Waveform Tomography on Near-Surface Refraction Data" %}}." _Geophysics_ 71, no. 4 (2006): U47-U57.
+Sheng, J., A. Leeds, M. Buddensiek, and G. T. Schuster. "[Early Arrival Waveform Tomography on Near-Surface Refraction Data](http://dx.doi.org/10.1190/1.2210969)." _Geophysics_ 71, no. 4 (2006): U47-U57.
 
-Ravaut, C., S. Opero, L. Improta, J. Virieux, A. Herrero, and P. Dell Aversana. "{{% resource_link "f0d0520e-982c-46c5-815d-9a20796d74e4" "Multiscale Imaging of Complex Structures from Multifold Wide-Aperture Seismic Data by Frequency-Domain Full-Wave Tomography: Application to a Thrust Belt" %}}." _Geophys J Int_ 159 (2004): 1032-1056.
+Ravaut, C., S. Opero, L. Improta, J. Virieux, A. Herrero, and P. Dell Aversana. "[Multiscale Imaging of Complex Structures from Multifold Wide-Aperture Seismic Data by Frequency-Domain Full-Wave Tomography: Application to a Thrust Belt](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2004.02442.x/full)." _Geophys J Int_ 159 (2004): 1032-1056.
 
 
 {{< tdclose >}}
@@ -87,7 +89,7 @@ Ravaut, C., S. Opero, L. Improta, J. Virieux, A. Herrero, and P. Dell Aversana. 
 {{< tdopen >}}
 
 
-Xia, J., R. Miller, and C. B. Park. "Estimation of Near-Surface Shear-Wave Velocity by Inversion of Rayleigh Waves." _Geophysics_ 64 (1999): 691-700. ({{% resource_link "2701cdea-46ea-438c-9d98-bc273664bb3f" "PDF" %}})
+Xia, J., R. Miller, and C. B. Park. "Estimation of Near-Surface Shear-Wave Velocity by Inversion of Rayleigh Waves." _Geophysics_ 64 (1999): 691-700. ([PDF](http://www.masw.com/files/XIA-99-04.pdf))
 
 Ernst, F. "Long-Wavelength Statics Estimation from Guided Waves." EAGE 2007.
 
@@ -102,9 +104,9 @@ Ernst, F. "Long-Wavelength Statics Estimation from Guided Waves." EAGE 2007.
 {{< tdopen >}}
 
 
-Ronen, J., and J. F. Claerbout. "{{% resource_link "16889d2b-5d47-4bc7-bc07-167ac081993c" "Surface-Consistent Residual Statics Estimation by Stack-Power Maximization" %}}." _Geophysics_ 50 (1985): 2759-2767.
+Ronen, J., and J. F. Claerbout. "[Surface-Consistent Residual Statics Estimation by Stack-Power Maximization](http://dx.doi.org/10.1190/1.1441896)." _Geophysics_ 50 (1985): 2759-2767.
 
-Hatherly, P., M. Urosevic, A. Lambourne, and B. J. Evans. "{{% resource_link "d74ccddf-8e12-4f1e-98f6-ad184aee8c93" "A Simple Approach to Calculating Refraction Statics Corrections" %}}." _Geophysics_ 59 (1994): 156-160. 
+Hatherly, P., M. Urosevic, A. Lambourne, and B. J. Evans. "[A Simple Approach to Calculating Refraction Statics Corrections](http://dx.doi.org/10.1190/1.1443527)." _Geophysics_ 59 (1994): 156-160. 
 
 
 {{< tdclose >}}
@@ -115,7 +117,7 @@ Hatherly, P., M. Urosevic, A. Lambourne, and B. J. Evans. "{{% resource_link "d7
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Kelamis, et al. "{{% resource_link "e101bab1-a6d3-44ca-b553-6dfc14f1236d" "Velocity-Independent Redauming: A New Approach to the Near-Surface Problem in Land Seismic Data Processing" %}}." _TLE_ (August 2002): 730-735.
+Kelamis, et al. "[Velocity-Independent Redauming: A New Approach to the Near-Surface Problem in Land Seismic Data Processing](http://tle.geoscienceworld.org/cgi/content/full/21/8/730)." _TLE_ (August 2002): 730-735.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,9 +128,9 @@ Kelamis, et al. "{{% resource_link "e101bab1-a6d3-44ca-b553-6dfc14f1236d" "Veloc
 {{< tdopen >}}
 
 
-Colombo, D., and M. De Stefano. _The Leading Edge_ (March 2007): 326-331. ({{% resource_link "63e7ba97-e98f-4f65-a6f6-b39ba2a4272e" "PDF" %}})
+Colombo, D., and M. De Stefano. _The Leading Edge_ (March 2007): 326-331. ([PDF](http://tle.geoscienceworld.org/cgi/reprint/26/3/326))
 
-Zhang, J., and D. F. Morgan. "{{% resource_link "77496a9d-42ad-4948-80ba-70bd95e0f9ee" "Detecting Underground Caves Using Joint Seismic and Electrical Imaging Method" %}}." _Expanded Abstract,_ SEG 67th Annual Meeting in Dallas, Texas.
+Zhang, J., and D. F. Morgan. "[Detecting Underground Caves Using Joint Seismic and Electrical Imaging Method](https://www.onepetro.org/conference-paper/SEG-2009-3421)." _Expanded Abstract,_ SEG 67th Annual Meeting in Dallas, Texas.
 
 
 {{< tdclose >}}

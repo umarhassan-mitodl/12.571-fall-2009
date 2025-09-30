@@ -33,6 +33,7 @@
     "website": "12-571-near-surface-geophysical-imaging-fall-2009"
   },
   "course_title": "Near-Surface Geophysical Imaging",
+  "hide_download": true,
   "course_description": "This graduate level course presents theories, methodologies, and applications of seismic imaging for solving the shallow near-surface (0 - 500 m) effects on the seismic data processing for oil and gas exploration on land. It introduces both conventional and advanced imaging technologies that have been developed in academia and the seismic industry.\n",
   "department_numbers": [
     "12"
@@ -43,6 +44,7 @@
     "content": "aa1d13ce-5006-e3aa-e310-d843d574f6cf",
     "website": "12-571-near-surface-geophysical-imaging-fall-2009"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples"
