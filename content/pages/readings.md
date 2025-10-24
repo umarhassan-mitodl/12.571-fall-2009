@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a list of readings for each week, including full
   citations for each source.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
